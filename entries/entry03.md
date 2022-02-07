@@ -19,17 +19,37 @@ This is what I bascially put into my coding template, the reason why the opening
   ```
 
   This line of code is basically a camera that serve for us at a human eye level, which means that when we preview the struture we can see it at a comfort level and up at a werid angle where it will make us feel dizzy. This is what I am working on currently, but [A-frame](https://aframe.io/) is not the only resoures I get my code tools from. From github, Mr.mueller also provided me and the people who work on the same tool a website called [A-frame School](https://aframe.io/aframe-school/#/). This webiste is also pretty much like the regular A-frame webiste but is more like the key idea of the tool A-frame, so if there was a speiclfy code I need to know I have to go back to the mother page of it.
-```js
-    
+```js   
     1, document.createElement()
     
     2, .setAttribute()
     
-    3, .appendChild()
-        
+    3, .appendChild()        
 ```
- Here are the three take away I got from the A-frame school website, and the reason why I think this will suit me perfectly is because this is javascript based, which means that all the 100 steps of repeating the same element but at a different positon, I can just simpily use Javascipt codes and make them into reusable codes. Which makes my life a whole lot easier, not only that this will also allow me to edit my codes a lot cleaier when I have a bug someone in these codes I wrote.
+    
+    
+  Here are the three take away I got from the A-frame school website, and the reason why I think this will suit me perfectly is because this is javascript based, which means that all the 100 steps of repeating the same element but at a different positon, I can just simpily use Javascipt codes and make them into reusable codes. Which makes my life a whole lot easier, not only that this will also allow me to edit my codes a lot cleaier when I have a bug someone in these codes I wrote.
+    
+```js
+    <a-entity camera look-controls position="0 1.6 0"></a-entity>
+```
   
+    
+For example something like this, although I know this line of codes will create a camera view for me when I press preview, but I won't know how will it affect me if I were to rotate my view to the left of the house, will it still be at the same position or it will not even show up. That's why digging deep into these codes are important than just grabbing it and using it.
+ 
+   What is next ? Next up I really hope I can finsih learning about the camera section of this building project using codes. Adding layers onto the based of my struture that's easy, I just have to figure out the position of where I want my shape to be placed at, like the x y z coordinate. My main aim for the next step is learn about the look-control, layers and visible in the A-frame website. Like I said before, my main goal of doing this project is because i am passiante about construtions and how things are being add on to build a safe house for myself, but on the process of building I can't just foucs on the front of it because what if the back of the house is unstable and god forbid a storm hit then the house will turned into a flat piece of land.
+    
+### EDP
+    
+    
+    
+    
+    
+### Skills
+    
+    
+    
+    
   
 [Previous](entry02.md) | [Next](entry04.md)
 
