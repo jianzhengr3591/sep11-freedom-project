@@ -37,9 +37,10 @@ This is what I bascially put into my coding template, the reason why the opening
     
 For example something like this, although I know this line of codes will create a camera view for me when I press preview, but I won't know how will it affect me if I were to rotate my view to the left of the house, will it still be at the same position or it will not even show up. That's why digging deep into these codes are important than just grabbing it and using it.
  
-   What is next ? Next up I really hope I can finsih learning about the camera section of this building project using codes. Adding layers onto the based of my struture that's easy, I just have to figure out the position of where I want my shape to be placed at, like the x y z coordinate. My main aim for the next step is learn about the look-control, layers and visible in the A-frame website. Like I said before, my main goal of doing this project is because i am passiante about construtions and how things are being add on to build a safe house for myself, but on the process of building I can't just foucs on the front of it because what if the back of the house is unstable and god forbid a storm hit then the house will turned into a flat piece of land.
+   What is next ? Next up I really hope I can finsih learning about the camera section of this building project using codes. Adding layers onto the based of my struture that's easy, I just have to figure out the position of where I want my shape to be placed at, like the x y z coordinate. My main aim for the next step is learn about the look-control, layers and visible in the A-frame website. Like I said before, my main goal of doing this project is because i am passiante about construtions and how things are being add on to build a safe house for myself, but on the process of building I can't just foucs on the front of it because what if the back of the house is unstable and god forbid a storm hit then the house will turned into a flat piece of land. But on the side of that I want to dry to aim on the videos tutourils more than websites, like get a sense of how others code it.
     
-### EDP
+### Engineering Design Process
+    Currently I am still on the Plan 
     
     
     
