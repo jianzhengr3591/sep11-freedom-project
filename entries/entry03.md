@@ -40,13 +40,15 @@ For example something like this, although I know this line of codes will create 
    What is next ? Next up I really hope I can finsih learning about the camera section of this building project using codes. Adding layers onto the based of my struture that's easy, I just have to figure out the position of where I want my shape to be placed at, like the x y z coordinate. My main aim for the next step is learn about the look-control, layers and visible in the A-frame website. Like I said before, my main goal of doing this project is because i am passiante about construtions and how things are being add on to build a safe house for myself, but on the process of building I can't just foucs on the front of it because what if the back of the house is unstable and god forbid a storm hit then the house will turned into a flat piece of land. But on the side of that I want to dry to aim on the videos tutourils more than websites, like get a sense of how others code it.
     
 ### Engineering Design Process
-    Currently I am still on the Plan 
+Currently I am on the "Plan the most promising solution" and "Improve as needed". These are the two main focus I have as of right now because I am new to this tool which means a lot of the things I have zero to no clue about, so as I go on the path and I see something that's suitable for my situation then I can probably added to my tool belt and apply into some area when I do my coding part of the project, but I also need to make sure these tools I gathered are workable for me which means I need to take notes of the things i gather. And for "imporve as needed" this was always my go to Engineering Design Process because these information I gathered I cannot guaraannted if they are 100 percent applable. So whenever I have the chance to apply the codes I leanred I got to check if it will work with other codes later on.
     
     
     
     
     
 ### Skills
+    
+Two main skill I used during this time of my freedom project and will continue to apply in the future are the "Problem decompision" and also "consideration". The skill "problem decomposition" was developed over the past months because as I researching and trying out things, there is also an area where it require just more than a single line of codes. Sometimes when I apply like let's say the "camera" compoent of my the stureture, I won't be able to rotate around just get a front rear view of it. And also the " consideration" skill, this is one of the main skills I been practicing the entire time because when I place the elements onto the plane, I have to make sure the next elements won't get effected or overlapping.
     
     
     
