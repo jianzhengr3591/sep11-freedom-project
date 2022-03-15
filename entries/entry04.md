@@ -1,6 +1,6 @@
 # Entry 4
 ##### 03/14/2022
-### content
+### Content
  In the last blog [entry](entry03.md), I were coding up to the camera entity of the project, because I have already finished putting the shapes anmd geometric shapes together and have the image of what my thought is presented to me on the screen with the following codes. So after i crossed out those due dates on the google doc, I have now began the second part of my plan which is modtifiy and also make these shapes selectable or responsive in another way of saying this. But as I was researching and adding on now code funtions, I realized one big issue with my use of aframe, and the tough question that hit me internally is that " DO i want to make it more towards the gaming side of aframe or just the regular version of the selectable aframe use with ul being displaced on the screen." I did a lot of research and I will illustrate why i choose to stay away from the gaming style of aframe.
  
  ```js
@@ -52,8 +52,9 @@ Besides looking at the examples and throught the [glitch sources](https://glitch
  
  After learning about all these within Aframe, the next step for me is to slowly apply to the area where is necessay so the program will function.
  
- ### 
-
+ ### Engeering process
+ 
+ ### Skills
 
 
 
