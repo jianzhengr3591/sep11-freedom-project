@@ -41,6 +41,25 @@ THese codes above is the idea I have came across when working throught it in cla
 
 This is that chunk of codes that caught all my attentions, and this is the main part of the project i needed foucs on the most. Aframe language is only slightly similair from what we been learning in class. Like `eventts`, `mouse`, these are the things we covered when we were learning the doms lesson, and not only that, in that glicth example it looks like the expect didn't even use the loops, all three images being displaced have an `id` and he just selected and used throught out the entire coding. whichg shock me, because at first i thought each shapes should have its own corresponding `evenListener()`. 
 After looking at this, I was more aware and clear that, coding in Aframe is very different with javascript and the things we learning in class, with that in mind, i was looking more into the codes Aframe website provided and done some research on youtube as well.
+
+Besides looking at the examples and throught the [glitch sources](https://glitch.com/~aframe-gallery), I also used Youtube, a great way to experience the codes more vitually and also have a better understanding of what is really going on. And here is some of the things I learned from it. And I was being introduced to this great system that's being applied in Aframe called `asset mangement sytem`, what this system does for us and the aframe program is that it makes it easier for the browser to cache assets (images, videos, models) and A-Frame will make sure all of the assets are fetched before rendering. So when we using the same entity more than  once we don't have to get it's `src`. 
+* we can specify the enviornmnet of a entity using the `environment="preset: forest; dressingAmount: 500"`.
+* `asset system`
+* Add <a-assets> to the scene.
+* Define the texture as an <img> under <a-assets>.
+* Give the <img> an HTML ID (e.g., id="boxTexture").
+* Reference the asset using the ID in DOM selector format (src="#boxTexture").
+ 
+ After learning about all these within Aframe, the next step for me is to slowly apply to the area where is necessay so the program will function.
+ 
+ ### 
+
+
+
+
+
+
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
