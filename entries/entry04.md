@@ -16,7 +16,7 @@
     </a-scene>        
         
  ```
-Here is the first adjustment I made after I cross off the frist time line, althought it look identical as the codes I had in [Previous](entry03.md), but is slightly different, and thqat little adjustment will make my life so much easier when i begin to put all my codes together. The reason why I choose to value and `id` to each shape is because i don't want my final product to be overwhelmed with many steps being repeated over and over again. However what my simplied Plan was to selected this entire section with the `id` of `shapes` and then use a `forEach()` loop to run throught each of the shapes.
+Here is the first adjustment I made after I cross off the frist time line, althought it look identical as the codes I had in [Previous](entry03.md), but is slightly different, and thqat little adjustment will make my life so much easier when i begin to put all my codes together. The reason why I choose to add `value` to each shape is because i don't want my final product to be overwhelmed with many steps being repeated over and over again. However what my simplied Plan was to selected this entire section with the `id` of `shapes` and then use a `forEach()` loop to run throught each of the shapes.
 
 ```js
       document.querySelector("#shapes").addEventListener("click",function(event){
