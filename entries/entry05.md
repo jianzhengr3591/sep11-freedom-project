@@ -39,7 +39,14 @@ Lastly I had to close out my roof top, and the main compoent I used for this par
   I just simpliy did a box and change the depth, height and width and then rotate it 45 degrees so it will form a triangle top
 ```
 
+### Engineering process
 
+I am proud to say this is a great journy for me to both learn and experience from. I am currently in stage 6 and 8 which is Test and evaluate the prototype also Communicate the results. I have reached a point where I have inputted all the informations I need to achieve my MVP, with that being said I am now testing out the codes and the functionality of my program and see where are the areas that I can improve and delvelope upon during my beyoung MYP. And also with the outcome of testing and taking notes on the areas I can improve on then I can let myself learn and educate myself on the glows and thr grows of this porject. Which can help me to aviod the same obsctales the next time I encouter the same type of project.
+
+
+### Skills
+
+The two main skills I will be foucsing on as of where I am at right now are embracing failure and also consideration. Since I am basically at the end of my project, I just now need to understand the mistake and digest them to better understand why those mistakes occurs and also what other ways I could've done to aviod this mistake. Also to consider how my next trail of working on this kind of project will be like, Use the things i analzed after a whole school year and learn from my own mistakes. Sometimes is better to learn off your own mistakes then teaching it brand new by others because yourself have already experienced.
 
 
 
