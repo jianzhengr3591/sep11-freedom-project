@@ -11,7 +11,7 @@ Besides the takeaway I got from the expo judging, I were also able to grab some 
 Currently I am in process 7 and 8 which is imporve as needed and also communicate the result. At this point I am done with the freedom project because I made my MVP and also added on extra designs. So I am looking over the notes and my product to see where I can imporve on upcoming projects and what other approches I could've took instead of using mainly HTML. And communicate the result because when I look at my product I will ask myself why did I place this part here and why did I choose this color for this part. All these kind of question will always accur when people or myself look at the A-frame scene. And with the two skils together, I were able to get some takeways and understand my tools a lot more at the end.
 
 ### skills
-
+The two main skills I focused on at the end of my freedom project tool are time managemnt and organization. Towards the end of learning my freedom project tool, I was a little slacking behind, the reason being is that my mindset was not at the right stage which means a lot of the stuff were rushed to get done and not all efforts were put into the work. Organization were another skill I had to practice. Over the  6 months of reseraching and learning there were a lot of useful and unnesccary notes i took down. Which means I have to look over and delete the notes that I don't need. looking at my notes were not the only way I organized my stuff, I also looked at my final product to see what are the mainly things I used for the tool and I can bring that with me into my future carrer.
 
 [Previous](entry05.md) | [Next](entry07.md)
 
