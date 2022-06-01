@@ -8,9 +8,11 @@ In this blog, which is the final blog for Sep 11 Javasript course, I will be tal
 Besides the takeaway I got from the expo judging, I were also able to grab some ideas from my [presentation](https://docs.google.com/presentation/d/1uyxNZlS4XUmJh5g39wCV6zXVXbOND9EQPndQgXhXFPE/edit#slide=id.gc6f90357f_0_0). As I present my tool and my final product to the classroom, I were able to see my skills. For example in my takeaway slide I mentioned that " remember to draft before you code the scene." This was one of the greatest and strongest feedback I got from the class because I explained to my classmates that, if you want to be an engineering or any businese later on in life, make sure you plan out before you start working towards your MVP. THis was one of the mistakes I had, because I believe whenever I have new ideas I can just import into the scene but i was wrong because sometimes it won't fit the size of my base. So it is super important that you are clear of what you want to do before coding into your scene or website.
 
 ### Engineering process
-Currently I am in process 7 and 8 which is imporve as needed and also communicate the result. At this point I am done with the freedom project because I made my MVP and also added on extra designs. So I am looking over the notes and my product to see where I can imporve on upcoming projects and what other approches I could've took instead of using mainly HTML. And communicate the result because when I look at my product I will ask myself why did I place this part here and why did I choose this color for this part. All these kind of question will always accur when people or myself look at the A-frame scene.
+Currently I am in process 7 and 8 which is imporve as needed and also communicate the result. At this point I am done with the freedom project because I made my MVP and also added on extra designs. So I am looking over the notes and my product to see where I can imporve on upcoming projects and what other approches I could've took instead of using mainly HTML. And communicate the result because when I look at my product I will ask myself why did I place this part here and why did I choose this color for this part. All these kind of question will always accur when people or myself look at the A-frame scene. And with the two skils together, I were able to get some takeways and understand my tools a lot more at the end.
 
 ### skills
+
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
